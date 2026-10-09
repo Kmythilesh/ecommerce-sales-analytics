@@ -1,0 +1,8 @@
+step,rows
+raw rows,6123
+after removing exact duplicates,6003
+unparseable dates dropped,0
+missing city -> 'Unknown',237
+rows with quantity <= 0 dropped,114
+missing discount -> 0,176
+clean rows,5889
